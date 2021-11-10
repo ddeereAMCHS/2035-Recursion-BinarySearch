@@ -11,7 +11,7 @@
   - Use the binary search method you wrote to search the array for that number
     - Print the result of the call to the binary search method
 
-Example Input:
-input1.txt
-Example Output:
+Example Input:\
+input1.txt\
+Example Output:\
 5
