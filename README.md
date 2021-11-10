@@ -1,11 +1,12 @@
-# Binary Search
+# Recursive Binary Search
 
 - Create a program called `BinarySearch.java`
 - Create a static method that implements binary search recursively and returns the index of the element you are searching for
 - In the main method:
-  - Read from the file `input.txt`
+  - Prompt the user to enter a filename containing the data to read in
+  - Read from that file
   - The first line is the number of elements the file contains
   - Read the remaining lines into an array (they are already sorted)
-  - Prompt the user for a number
+  - Prompt the user for a value to search for
   - Use the binary search method you wrote to search the array for that number
-    - Print the result
+    - Print the result of the call to the binary search method
