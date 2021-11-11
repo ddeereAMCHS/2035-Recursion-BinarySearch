@@ -6,7 +6,8 @@
   - Prompt the user to enter a filename containing the data to read in
   - Read from that file
   - The first line is the number of elements the file contains
-  - Read the remaining lines into an array (they are already sorted)
+  - Read the remaining lines into an array
+  - Sort the array
   - Prompt the user for a value to search for
   - Use the binary search method you wrote to search the array for that number
     - Print the result of the call to the binary search method
