@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "input1.txt",
+      "setup": "javac BinarySearch.java",
+      "run": "java BinarySearch",
+      "input": "input1.txt",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "input2.txt",
+      "setup": "javac BinarySearch.java",
+      "run": "java BinarySearch",
+      "input": "input2.txt",
+      "output": "-1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "input3.txt",
+      "setup": "javac BinarySearch.java",
+      "run": "java BinarySearch",
+      "input": "input3.txt",
+      "output": "9",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
