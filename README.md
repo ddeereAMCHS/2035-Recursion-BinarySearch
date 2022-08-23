@@ -1,5 +1,7 @@
 # Recursive Binary Search
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `BinarySearch.java`
 - Create a static method that implements binary search recursively and returns the index of the element you are searching for
 - In the main method:
