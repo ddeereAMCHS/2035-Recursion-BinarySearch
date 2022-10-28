@@ -14,8 +14,8 @@
   - Use the binary search method you wrote to search the array for that number
     - Print the result of the call to the binary search method
 
-Example Input:\
+***Example Input:***\
 input1.txt\
 19\
-Example Output:\
-5
+***Example Output:***\
+The index of value 19 is 5
