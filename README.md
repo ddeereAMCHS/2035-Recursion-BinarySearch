@@ -2,7 +2,7 @@
 
 ## Due: DoW MM/DD at 11:59 PM
 
-### No Googling the merge sort algorithm
+### No Googling the binary search algorithm
 
 - Create a program called `BinarySearch.java`
 - Create a static method that implements binary search recursively and returns the index of the element you are searching for
