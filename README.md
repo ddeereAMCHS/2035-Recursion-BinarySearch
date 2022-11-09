@@ -6,6 +6,7 @@
 
 - Create a program called `BinarySearch.java`
 - Create a static method that implements binary search recursively and returns the index of the element you are searching for
+  - Think about what your parameters need to be for this method
 - In the main method:
   - Prompt the user to enter a filename containing the data to read in
   - Read from that file
