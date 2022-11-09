@@ -1,6 +1,6 @@
 # Recursive Binary Search
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Mon 11/14 at 11:59 PM
 
 ### No Googling the binary search algorithm
 
