@@ -21,3 +21,9 @@ input1.txt\
 19\
 ***Example Output:***\
 The index of value 19 is 5
+
+***Example Input:***\
+input1.txt\
+18\
+***Example Output:***\
+The value 18 is not in the list
