@@ -5,7 +5,7 @@
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n19",
-      "output": "5",
+      "output": "The index of value 19 is 5",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n18",
-      "output": "-1",
+      "output": "The value 18 is not in the list",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n85",
-      "output": "9",
+      "output": "The index of value 85 is 9",
       "comparison": "included",
       "timeout": 10,
       "points": null
