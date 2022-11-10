@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "input1.txt",
+      "name": "input1.txt, 19",
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n19",
@@ -11,7 +11,7 @@
       "points": null
     },
     {
-      "name": "input2.txt",
+      "name": "input1.txt, 18",
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n18",
@@ -21,7 +21,7 @@
       "points": null
     },
     {
-      "name": "input3.txt",
+      "name": "input1.txt, 85",
       "setup": "javac BinarySearch.java",
       "run": "java BinarySearch",
       "input": "input1.txt\r\n85",
