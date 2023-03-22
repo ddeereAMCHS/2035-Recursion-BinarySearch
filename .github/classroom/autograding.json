@@ -7,7 +7,7 @@
       "input": "input1.txt\r\n19",
       "output": "The index of value 19 is 5",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "input1.txt\r\n18",
       "output": "The value 18 is not in the list",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "input1.txt\r\n85",
       "output": "The index of value 85 is 9",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
