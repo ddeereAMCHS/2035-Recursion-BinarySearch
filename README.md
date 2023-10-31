@@ -1,6 +1,6 @@
 # Recursive Binary Search
 
-## Due: Mon 11/14 at 11:59 PM
+## Due: Thur 11/2 at 11:59 PM
 
 ### No Googling the binary search algorithm
 
